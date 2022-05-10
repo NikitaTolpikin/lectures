@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "README.md",
+            "file": "ДЗ №4.md",
             "mode": "preview",
             "backlinks": false,
             "source": true
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "ДЗ №4.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,10 +98,10 @@
   },
   "active": "1be8c8b1a6f4f42a",
   "lastOpenFiles": [
+    "ДЗ №4.md",
     "README.md",
     "Подробный план обучения/Теория языков программирования.md",
     "Подробный план обучения/Система контроля версий.md",
-    "ДЗ №4.md",
     "Основное/Структуры данных.md",
     "Основное/Теория графов.md",
     "ДЗ №3.md",
