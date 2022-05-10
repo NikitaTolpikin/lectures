@@ -9,5 +9,6 @@
     "en-US"
   ],
   "newFileLocation": "root",
-  "alwaysUpdateLinks": true
+  "alwaysUpdateLinks": true,
+  "useMarkdownLinks": false
 }
