@@ -1,0 +1,112 @@
+{
+  "main": {
+    "id": "d36c3b174f680ce8",
+    "type": "split",
+    "children": [
+      {
+        "id": "1be8c8b1a6f4f42a",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "README.md",
+            "mode": "preview",
+            "backlinks": false,
+            "source": true
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6b04c18acc1f5f47",
+    "type": "split",
+    "children": [
+      {
+        "id": "a3adc642e05101b4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2ca6b84faec5bcc9",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "ce0deaf97adc5d33",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "4de5ab94b89394b0",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "675170013e9e5ee8",
+    "type": "split",
+    "children": [
+      {
+        "id": "1343e9dbf85f00bc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b0c2a586b2b71469",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "README.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "1be8c8b1a6f4f42a",
+  "lastOpenFiles": [
+    "README.md",
+    "Подробный план обучения/Теория языков программирования.md",
+    "Подробный план обучения/Система контроля версий.md",
+    "ДЗ №4.md",
+    "Основное/Структуры данных.md",
+    "Основное/Теория графов.md",
+    "ДЗ №3.md",
+    "ДЗ №2.md",
+    "Основное/Язык программирования.md",
+    "Основное/Теория информации.md"
+  ]
+}
