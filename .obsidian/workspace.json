@@ -4,15 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "51cc1b83cc0e089d",
+        "id": "2e21a93e0792eceb",
         "type": "tabs",
         "children": [
           {
-            "id": "397d175ee52eccec",
+            "id": "33a29de030c3862f",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "File for integration check.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": true
+              }
             }
           }
         ]
@@ -81,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "File for integration check.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,10 +122,10 @@
       "markdown-importer:Импорт Markdown-файлов": false
     }
   },
-  "active": "2ca6b84faec5bcc9",
+  "active": "33a29de030c3862f",
   "lastOpenFiles": [
-    "Без названия.md",
     "File for integration check.md",
+    "Без названия.md",
     "GIT/Система контроля версий.md",
     "Компьютер саенс/Система счисления.md",
     "Компьютер саенс/Структуры данных.md",
