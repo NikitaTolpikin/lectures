@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Без названия.md",
+                "file": "File for integration check.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": true
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Без названия.md",
+                "file": "File for integration check.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,9 +113,10 @@
       "markdown-importer:Импорт Markdown-файлов": false
     }
   },
-  "active": "2ca6b84faec5bcc9",
+  "active": "c67de2e1bf5d3ca3",
   "lastOpenFiles": [
     "Без названия.md",
+    "File for integration check.md",
     "Компьютер саенс/Система счисления.md",
     "Компьютер саенс/Структуры данных.md",
     "Компьютер саенс/Теория графов.md",
@@ -145,7 +146,6 @@
     "Виталя/Подробный план обучения/Теория языков программирования.md",
     "Виталя/Подробный план обучения/Obsidian.md",
     "Виталя/Подробный план обучения/Установка и настройка окружения.md",
-    "Виталя/Подробный план обучения/DevOPS.md",
     "img/ivvjkxghqmm87r3ceaup-sjaxa8.jpeg",
     "img/vsvzd-nhfbt8lgqygo_n6kevota.jpeg",
     "img/vupphsidgppdcjzld_h6haiohv8.jpeg"
