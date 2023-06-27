@@ -1,0 +1,175 @@
+{
+  "main": {
+    "id": "831c86a8a1adb2e6",
+    "type": "split",
+    "children": [
+      {
+        "id": "621b3aa042781fb3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dd08ac4d4b0f9a27",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Без названия.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1db3176386509206",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "13142d5c017cfede",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "17396a3ad897769a",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "01948bc453ec77d6",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "84f106f78a49d959",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "d18caf43a90211f5",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "c092cf08487db667",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "Без названия.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "1eaffa75b3a1fb36",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "9e7385b13bb40df0",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "markdown-importer:Open format converter": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "13142d5c017cfede",
+  "lastOpenFiles": [
+    "Без названия.md",
+    "img/aitc0cr61ubeesbbvhicyx5xp3o.jpeg",
+    "img",
+    "Компьютер саенс",
+    "img/ivvjkxghqmm87r3ceaup-sjaxa8.jpeg",
+    "img/1_7d628edbb9cbcf75d9da97d8a8a506ec.png",
+    "img/compilationdiagram-010238.webp",
+    "img/interpretationdiagram-010239.webp",
+    "img/5fdb29509a644288566818.png",
+    "img/7f3d0251cd5f42e8a0a1f3aec41da199.png",
+    "img/7uicvvfrp5r11e6a_ysnnueynu8.jpeg",
+    "img/vupphsidgppdcjzld_h6haiohv8.jpeg",
+    "img/vsvzd-nhfbt8lgqygo_n6kevota.jpeg",
+    "Языки программирования/Python.md",
+    "Языки программирования/Исполнение программного кода.md",
+    "Языки программирования/C Sharp.md",
+    "Языки программирования/Парадигма.md",
+    "Языки программирования/Типизация.md",
+    "Языки программирования",
+    "Языки программирования/Язык программирования.md",
+    "Компьютер саенс/Система счисления.md",
+    "Компьютер саенс/Теория информации.md",
+    "Виталя/Подробный план обучения/Основы сетевого взаимодействия.md",
+    "Виталя/Подробный план обучения/Obsidian.md",
+    "Виталя/Подробный план обучения/Установка и настройка окружения.md",
+    "Виталя/Подробный план обучения/Архитектура бэкенда.md",
+    "Виталя/Подробный план обучения/Теория языков программирования.md",
+    "Виталя/Подробный план обучения/Основы баз данных.md",
+    "Виталя/ДЗ №2.md",
+    "Виталя/ДЗ №6.md",
+    "Виталя/README.md",
+    "Виталя/ДЗ №3.md",
+    "Виталя/ДЗ №4.md",
+    "Виталя/ДЗ №1.md",
+    "Виталя/ДЗ №5.md",
+    "Виталя/Подробный план обучения",
+    "Виталя",
+    "Виталя/Подробный план обучения/DevOPS.md",
+    "Компьютер саенс/Структуры данных.md",
+    "Компьютер саенс/Теория графов.md",
+    "GIT"
+  ]
+}
