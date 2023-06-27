@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "03dea14d8f4175bb",
+        "id": "1dc535753a0ac053",
         "type": "tabs",
         "children": [
           {
-            "id": "bba1b9ee41d6bf69",
+            "id": "2ae13f801c7ffff0",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -107,12 +107,12 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -123,7 +123,7 @@
       "markdown-importer:Импорт Markdown-файлов": false
     }
   },
-  "active": "a768166f2a96ba3b",
+  "active": "b0c2a586b2b71469",
   "lastOpenFiles": [
     "File for integration check.md",
     "Без названия.md",
