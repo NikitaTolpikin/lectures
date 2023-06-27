@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "1dc535753a0ac053",
+        "id": "d3c8d839861d55fb",
         "type": "tabs",
         "children": [
           {
-            "id": "2ae13f801c7ffff0",
+            "id": "562cbc0df34e24cd",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -107,7 +107,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -123,7 +124,7 @@
       "markdown-importer:Импорт Markdown-файлов": false
     }
   },
-  "active": "b0c2a586b2b71469",
+  "active": "ac0870f7aca53cb6",
   "lastOpenFiles": [
     "File for integration check.md",
     "Без названия.md",
