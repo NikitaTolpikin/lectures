@@ -11,8 +11,13 @@
             "id": "562cbc0df34e24cd",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "GIT/Система контроля версий.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": true
+              }
             }
           }
         ]
@@ -81,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "GIT/Система контроля версий.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +130,7 @@
       "markdown-importer:Импорт Markdown-файлов": false
     }
   },
-  "active": "ac0870f7aca53cb6",
+  "active": "562cbc0df34e24cd",
   "lastOpenFiles": [
     "File for integration check.md",
     "Без названия.md",
