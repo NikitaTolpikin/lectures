@@ -11,12 +11,11 @@
             "id": "33a29de030c3862f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "diff-view",
               "state": {
-                "file": "File for integration check.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": true
+                "file": ".gitignore",
+                "staged": false,
+                "hash": "f91c19ad9e812f817bcf1ea926bd4594e0573182"
               }
             }
           }
@@ -86,7 +85,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "File for integration check.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,14 +102,21 @@
               "type": "git-view",
               "state": {}
             }
+          },
+          {
+            "id": "a768166f2a96ba3b",
+            "type": "leaf",
+            "state": {
+              "type": "git-history-view",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
