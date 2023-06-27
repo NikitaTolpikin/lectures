@@ -54,14 +54,6 @@
             }
           },
           {
-            "id": "4de5ab94b89394b0",
-            "type": "leaf",
-            "state": {
-              "type": "starred",
-              "state": {}
-            }
-          },
-          {
             "id": "bd5631b671926b52",
             "type": "leaf",
             "state": {
@@ -69,7 +61,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -115,7 +108,7 @@
       "markdown-importer:Импорт Markdown-файлов": false
     }
   },
-  "active": "2ca6b84faec5bcc9",
+  "active": "ce0deaf97adc5d33",
   "lastOpenFiles": [
     "Без названия.canvas",
     "Языки программирования/Python.md",
