@@ -1,0 +1,184 @@
+{
+  "main": {
+    "id": "d36c3b174f680ce8",
+    "type": "split",
+    "children": [
+      {
+        "id": "dfb57890cd7c09eb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8ac0079f8ee04b26",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Языки программирования/Python.md",
+                "mode": "preview",
+                "backlinks": false,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "c4c2697696192141",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Языки программирования/Python.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "c81845a00d81d588",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "GIT/Система контроля версий.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": true
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6b04c18acc1f5f47",
+    "type": "split",
+    "children": [
+      {
+        "id": "a3adc642e05101b4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2ca6b84faec5bcc9",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabeticalReverse"
+              }
+            }
+          },
+          {
+            "id": "ce0deaf97adc5d33",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "4de5ab94b89394b0",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "bd5631b671926b52",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "675170013e9e5ee8",
+    "type": "split",
+    "children": [
+      {
+        "id": "1343e9dbf85f00bc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b0c2a586b2b71469",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "GIT/Система контроля версий.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "command-palette:Открыть палитру команд": false,
+      "markdown-importer:Импорт Markdown-файлов": false
+    }
+  },
+  "active": "2ca6b84faec5bcc9",
+  "lastOpenFiles": [
+    "GIT",
+    "Компьютер саенс/Теория информации.md",
+    "Языки программирования/Python.md",
+    "Компьютер саенс",
+    "Языки программирования/C Sharp.md",
+    "Виталя/README.md",
+    "Языки программирования",
+    "Виталя/ДЗ №7.md",
+    "Виталя",
+    "Виталя/ДЗ №1.md",
+    "Виталя/ДЗ №6.md",
+    "Виталя/ДЗ №5.md",
+    "Виталя/ДЗ №4.md",
+    "Виталя/ДЗ №3.md",
+    "Виталя/ДЗ №2.md",
+    "Языки программирования/Язык программирования.md",
+    "Языки программирования/Парадигма.md",
+    "Языки программирования/Исполнение программного кода.md",
+    "GIT/Система контроля версий.md",
+    "Компьютер саенс/Структуры данных.md",
+    "Виталя/Подробный план обучения/Архитектура бэкенда.md",
+    "Виталя/Подробный план обучения/Основы баз данных.md",
+    "Виталя/Подробный план обучения/Основы сетевого взаимодействия.md",
+    "Виталя/Подробный план обучения/Теория языков программирования.md",
+    "Виталя/Подробный план обучения/Obsidian.md",
+    "Виталя/Подробный план обучения/Установка и настройка окружения.md",
+    "Виталя/Подробный план обучения/DevOPS.md",
+    "img/ivvjkxghqmm87r3ceaup-sjaxa8.jpeg",
+    "img/vsvzd-nhfbt8lgqygo_n6kevota.jpeg",
+    "img/vupphsidgppdcjzld_h6haiohv8.jpeg"
+  ]
+}

@@ -4,5 +4,6 @@
   "interfaceFontFamily": "Comic Code",
   "textFontFamily": "Comic Code",
   "monospaceFontFamily": "Comic Code",
-  "baseFontSize": 14
+  "baseFontSize": 14,
+  "accentColor": ""
 }

@@ -1,12 +1,4 @@
 {
-  "markdown:toggle-preview": [
-    {
-      "modifiers": [
-        "Mod"
-      ],
-      "key": " "
-    }
-  ],
   "slides:start": [
     {
       "modifiers": [
