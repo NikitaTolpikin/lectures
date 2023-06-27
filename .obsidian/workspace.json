@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "2e21a93e0792eceb",
+        "id": "03dea14d8f4175bb",
         "type": "tabs",
         "children": [
           {
-            "id": "33a29de030c3862f",
+            "id": "bba1b9ee41d6bf69",
             "type": "leaf",
             "state": {
-              "type": "diff-view",
-              "state": {
-                "file": ".gitignore",
-                "staged": false,
-                "hash": "f91c19ad9e812f817bcf1ea926bd4594e0573182"
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -127,7 +123,7 @@
       "markdown-importer:Импорт Markdown-файлов": false
     }
   },
-  "active": "33a29de030c3862f",
+  "active": "a768166f2a96ba3b",
   "lastOpenFiles": [
     "File for integration check.md",
     "Без названия.md",
