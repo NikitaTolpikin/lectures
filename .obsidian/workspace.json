@@ -11,8 +11,13 @@
             "id": "c67de2e1bf5d3ca3",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Без названия.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": true
+              }
             }
           }
         ]
@@ -81,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Без названия.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,8 +113,9 @@
       "markdown-importer:Импорт Markdown-файлов": false
     }
   },
-  "active": "c67de2e1bf5d3ca3",
+  "active": "2ca6b84faec5bcc9",
   "lastOpenFiles": [
+    "Без названия.md",
     "Компьютер саенс/Система счисления.md",
     "Компьютер саенс/Структуры данных.md",
     "Компьютер саенс/Теория графов.md",
