@@ -4,20 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "345ee3cf091f45fa",
+        "id": "51cc1b83cc0e089d",
         "type": "tabs",
         "children": [
           {
-            "id": "62b8ddeb8ac78663",
+            "id": "397d175ee52eccec",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "File for integration check.md",
-                "mode": "preview",
-                "backlinks": false,
-                "source": true
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -86,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "File for integration check.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,8 +90,17 @@
                 "unlinkedCollapsed": true
               }
             }
+          },
+          {
+            "id": "ac0870f7aca53cb6",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -113,11 +116,11 @@
       "markdown-importer:Импорт Markdown-файлов": false
     }
   },
-  "active": "62b8ddeb8ac78663",
+  "active": "2ca6b84faec5bcc9",
   "lastOpenFiles": [
-    "GIT/Система контроля версий.md",
-    "File for integration check.md",
     "Без названия.md",
+    "File for integration check.md",
+    "GIT/Система контроля версий.md",
     "Компьютер саенс/Система счисления.md",
     "Компьютер саенс/Структуры данных.md",
     "Компьютер саенс/Теория графов.md",
