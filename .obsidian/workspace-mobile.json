@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "621b3aa042781fb3",
+        "id": "367ff70855921b49",
         "type": "tabs",
         "children": [
           {
-            "id": "dd08ac4d4b0f9a27",
+            "id": "f22b90c1685a6627",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Без названия.md",
+                "file": "File for integration check.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": true
@@ -86,7 +86,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Без названия.md",
+            "file": "File for integration check.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -130,7 +130,8 @@
   },
   "active": "13142d5c017cfede",
   "lastOpenFiles": [
-    "Без названия.md",
+    "File for integration check.md",
+    "Untitled.canvas",
     "img/aitc0cr61ubeesbbvhicyx5xp3o.jpeg",
     "img",
     "Компьютер саенс",
